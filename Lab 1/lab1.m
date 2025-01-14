@@ -25,7 +25,7 @@ printf("E = A_i * B_j\n");
 E = A .* B
 
 % 2.
-% plotting all 3 plots in the same grid
+% plotting all 3 plots in the same windows, different pictures
 
 x = [ 0:.1:3 ];  % or x = linspace(0, 3, 100)
 
